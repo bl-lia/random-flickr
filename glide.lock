@@ -1,0 +1,18 @@
+hash: 3e0f02a0b7db9b81c8a98ee72649e3f2a0af2c76a1ee2bf30dfd26998fc2de7a
+updated: 2017-06-11T13:05:09.59578429+09:00
+imports:
+- name: github.com/dghubble/oauth1
+  version: 70562a5920ad9b6ff03ef697c0f90ae569abbd2b
+- name: github.com/go-resty/resty
+  version: 7a8134d8718193eb857994adee49d73a302e7718
+- name: github.com/tumblr/tumblr.go
+  version: 4f2b113458520af9038c4f71d6285101b96975fe
+- name: github.com/tumblr/tumblrclient.go
+  version: a17c0c6c5e1b7cf6a493cee47621034a11329358
+- name: github.com/urfave/cli
+  version: 0bdeddeeb0f650497d603c4ad7b20cfe685682f6
+- name: golang.org/x/net
+  version: 45e771701b814666a7eb299e6c7a57d0b1799e91
+  subpackages:
+  - context
+testImports: []
